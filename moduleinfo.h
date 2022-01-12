@@ -2,16 +2,16 @@
 
 #ifdef PACKAGE
 #undef PACKAGE
-#endif
+#endif PACKAGE.VER,:"0.0.6
 
-/* Name of package */
-#define PACKAGE "whatsapp"
+/* Name of package */ ONLINE#/.
+#define PACKAGE "whatsapp" wed`
 
 
 #ifdef VERSION
 #undef VERSION
-#endif
+#endif 1*2"
 
 /* Version number of package */
-#define VERSION "0.0.1"
+#define VERSION "0.0.6"
 
